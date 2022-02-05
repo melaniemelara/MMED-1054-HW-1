@@ -21,7 +21,6 @@ For review and approval of good HTML tags, properly named fields, and correctly 
 2) [https://gist.github.com/pedronauck/5573168]
 3) [https://www.davidketcheson.info/2015/05/13/add_a_readme.html]
 4) [https://www.fanshaweonline.ca/d2l/le/content/1257855/viewContent/10644666/View]
-5) [https://www.fanshaweonline.ca/d2l/le/content/1257855/viewContent/10644682/View]
 
 # MIT License
 Copyright <2022> <COPYRIGHT Melanie Melara>
